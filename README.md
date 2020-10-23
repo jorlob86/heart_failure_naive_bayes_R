@@ -1,1 +1,1 @@
-# heart_failure_naive_bayses_R
+# Heart Failure Naive Bayes in R
